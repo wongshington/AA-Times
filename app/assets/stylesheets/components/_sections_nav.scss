@@ -1,0 +1,16 @@
+.sections-nav {
+	display: flex;
+	justify-content: center;
+}
+
+.sections-nav ul {
+	display: flex;
+	padding: 10px;
+}
+
+.sections-nav li {
+	margin: 10px;
+  font-family: $sans-serif;
+  text-transform: uppercase;
+	font-size: 10px;
+}
